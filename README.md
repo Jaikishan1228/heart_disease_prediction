@@ -47,7 +47,7 @@ Model used in this project :- Logistic Regression
 
 - 👋 Hi, I’m @Jaikishan
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning data analytics    
 - 💞️ I’m looking to collaborate on large ml model & AI assistant
 - 📫 You can reach to via Insta:- _jay_1404_
 - 😄 Pronouns: He/Him
